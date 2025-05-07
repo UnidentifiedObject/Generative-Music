@@ -10,7 +10,7 @@ How to use:
 
 -First you need to download the requirements file for libraries.
 
--Then you can add your musics to "midi_files" folder
+-Then you can add your musics to "midi_files" folder (you need to download in .mid format) 
 
 -Then run "canYouHearTheMusic" file
 
