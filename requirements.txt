@@ -1,0 +1,4 @@
+keras==2.10.0
+numpy==1.26.0
+pretty_midi==0.2.10
+tensorflow==2.10.0
